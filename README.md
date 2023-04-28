@@ -4,10 +4,9 @@ This Terraform project sets up a complete AWS infrastructure for a web applicati
 
 # Related resources
 
+- [Deployed demo site](https://d1orwtk97n23at.cloudfront.net/)
 - [Frontend repository](https://github.com/bobyeoh/checkout-frontend)
 - [Backend repository](https://github.com/bobyeoh/checkout-backend)
-- [Terraform repository](https://github.com/bobyeoh/checkout-infra)
-- [Deployed demo](https://d1orwtk97n23at.cloudfront.net/)
 
 # Prerequisites
 
