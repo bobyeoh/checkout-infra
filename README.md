@@ -2,6 +2,13 @@
 
 This Terraform project sets up a complete AWS infrastructure for a web application called "checkout", which consists of a backend service and a frontend user interface. The backend service is developed using Golang and runs inside a Docker container, which is deployed on AWS Elastic Container Service (ECS). The frontend is built using React.js and is hosted on AWS S3, served through a CloudFront distribution. The infrastructure includes IAM roles, an ECR repository, a VPC with subnets, an RDS database, an ECS cluster, an S3 bucket, and a CloudFront distribution.
 
+# Related resources
+
+- [Frontend repository](https://github.com/bobyeoh/checkout-frontend)
+- [Backend repository](https://github.com/bobyeoh/checkout-backend)
+- [Terraform repository](https://github.com/bobyeoh/checkout-infra)
+- [Deployed demo](https://d1orwtk97n23at.cloudfront.net/)
+
 # Prerequisites
 
 -   [Terraform](https://www.terraform.io/downloads.html) installed
